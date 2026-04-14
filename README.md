@@ -8,19 +8,30 @@ The purpose of this repository is to document and demonstrate SDR concepts using
 The repository is structured in the following manner:
 
 Lab 01/
-- ├── DryRun/
-- │   ├── dryRun.grc
-- │   └── README.md
-- ├── RunDry/
-- │   ├── runDry.grc
-- │   └── README.md
+
+├── DryRun/
+
+  │   ├── dryRun.grc
+
+  │   └── README.md
+
+├── RunDry/
+
+  │   ├── runDry.grc
+
+  │   └── README.md
 
 Lab 02/
-- ├── Individual Folder for Each Flowgraph/
-- │   ├── '.grc' file
-- │   ├── '.py' file (if applicable)
-- │   ├── '.png' file(s) of results (if applicable)
-- │   └── README.md
+
+├── Individual Folder for Each Flowgraph/
+
+  │   ├── '.grc' file
+
+  │   ├── '.py' file (if applicable)
+
+  │   ├── '.png' file(s) of results (if applicable)
+
+  │   └── README.md
 
 ## Tools & Technologies
 - GNU Radio
