@@ -89,3 +89,9 @@ Key characteristics:
 * This flowgraph is commonly used in communication systems and signal preprocessing.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
