@@ -99,3 +99,9 @@ The flexibility of this block makes it a powerful tool for implementing non-stan
 * This flowgraph is useful for prototyping advanced or custom DSP algorithms.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
