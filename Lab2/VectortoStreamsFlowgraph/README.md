@@ -91,3 +91,9 @@ These displays allow comparison between:
 * This flowgraph is useful for understanding more advanced DSP operations that rely on vectorized data.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
