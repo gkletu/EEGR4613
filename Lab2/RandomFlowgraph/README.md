@@ -79,3 +79,9 @@ This block serves as the primary signal source for the flowgraph.
 * This flowgraph is useful for understanding noise in real-world communication systems.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
