@@ -86,3 +86,7 @@ Key aspects of the filter:
 * This flowgraph is foundational for more advanced filtering and communication systems.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
