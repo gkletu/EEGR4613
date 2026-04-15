@@ -84,3 +84,9 @@ The imported libraries allow more complex or optimized operations than standard 
 * This method is useful for prototyping advanced algorithms before implementing them in optimized blocks.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
