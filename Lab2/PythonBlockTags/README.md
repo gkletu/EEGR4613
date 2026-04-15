@@ -99,3 +99,9 @@ This allows for dynamic, metadata-driven processing.
 * Debugging tag behavior may require printing tag information inside the Python block.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
