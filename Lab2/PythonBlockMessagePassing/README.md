@@ -93,3 +93,10 @@ The block may also output messages to other blocks.
 * This approach is commonly used in more complex SDR systems for control and coordination tasks.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
+
