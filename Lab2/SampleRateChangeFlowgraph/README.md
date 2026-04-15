@@ -87,3 +87,9 @@ These operations maintain the signal’s information while changing how it is sa
 * This concept is widely used in communication systems and audio processing.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
