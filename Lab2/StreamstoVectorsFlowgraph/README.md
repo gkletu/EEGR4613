@@ -80,3 +80,9 @@ Depending on configuration, the visualization may show:
 * This flowgraph pairs naturally with a **Vector to Streams** setup to demonstrate full data conversion cycles.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
