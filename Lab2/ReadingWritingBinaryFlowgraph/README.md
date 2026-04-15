@@ -156,3 +156,9 @@ This demonstrates a full  **data acquisition and playback cycle** .
 * Incorrect formatting may result in corrupted or unreadable data.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
