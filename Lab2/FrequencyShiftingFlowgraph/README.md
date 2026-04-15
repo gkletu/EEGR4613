@@ -94,3 +94,9 @@ Mathematically, multiplying two sinusoids produces:
 * This concept is widely used in RF systems and SDR applications.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
