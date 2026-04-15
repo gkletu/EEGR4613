@@ -144,3 +144,10 @@ Part 2 builds upon the basic system by introducing more advanced message handlin
 * This project demonstrates how GNU Radio can be extended into application-level systems.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
+
