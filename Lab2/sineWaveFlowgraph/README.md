@@ -79,3 +79,9 @@ The signal is defined by adjustable parameters such as frequency, amplitude, and
 * This flowgraph serves as a building block for more advanced DSP systems.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
