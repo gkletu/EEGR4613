@@ -84,3 +84,9 @@ The processing is performed on a per-sample basis, making it suitable for real-t
 * This flowgraph provides a foundation for more advanced custom processing techniques.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
