@@ -89,3 +89,9 @@ This demonstrates how complex systems can be built using modular components.
 * This technique is commonly used in large SDR systems and production-level designs.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
