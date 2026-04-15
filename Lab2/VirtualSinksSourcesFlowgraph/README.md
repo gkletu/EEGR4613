@@ -88,3 +88,9 @@ The purpose of this flowgraph is to show how signals can be logically routed acr
 * This approach is especially useful in large SDR systems with many interconnected components.
 
 ---
+
+## AI Usage Disclosure
+
+* This README was generated in part using ChatGPT with contents reviewed and approved by the contributors.
+
+---
