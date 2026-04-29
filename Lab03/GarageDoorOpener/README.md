@@ -7,14 +7,21 @@ This file uses osmoSDR with the Hack RF One software defined radio to provide re
 - ASK Demodulation: this project includes a Complex-to-Magnitude block to visualize the envelope of the ASK/OOK signal allowing the user to view the transmitted bit sequence
 
 ## Signal Processing Chain
-The logic of the flowgraph is as follows
-1.) OsmoSDR Source: Captures raw I/Q samples at a sampling rate of 2.0 Msps
-2.) Frequency Visualization: Raw data is passed into a QT GUI Frequency Sink to display the spectral density
-3.) Digital-Modulated Signal Visualization: Raw complex data is passed to a QT GUI Time Sink to display the ASK signal
-4.) Envelope Detection Visualization: raw data is passed through a complex to magnitude block which removes the carrier revealing the digital pulse sequence displayed on another QT GUI Time Sink
+The logic of the flowgraph is as follows:
+
+1. OsmoSDR Source: Captures raw I/Q samples at a sampling rate of 2.0 Msps
+
+2. Frequency Visualization: Raw data is passed into a QT GUI Frequency Sink to display the spectral density
+
+3. Digital-Modulated Signal Visualization: Raw complex data is passed to a QT GUI Time Sink to display the ASK signal
+
+4. Envelope Detection Visualization: raw data is passed through a complex to magnitude block which removes the carrier revealing the digital pulse sequence displayed on another QT GUI Time Sink
 
 ## How to Use
-1.) Install dependencies: Ensure that you have gnuradio and gr-osmosdr installed on your system
-2.) Open GRC: Launch GNU radio and open the .grc file
-3.) Execute: Click the play button on the top bar to start the program
-4.) Visualize: Plots will be displayed for the user with a slider at the top to adjust target frequency
+1. Install dependencies: Ensure that you have gnuradio and gr-osmosdr installed on your system
+
+2. Open GRC: Launch GNU radio and open the .grc file
+
+3. Execute: Click the play button on the top bar to start the program
+
+4. Visualize: Plots will be displayed for the user with a slider at the top to adjust target frequency
